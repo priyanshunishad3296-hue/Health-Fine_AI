@@ -81,11 +81,11 @@ This website does not provide medical diagnosis, treatment, or professional heal
 
 ## 👨‍💻 Team Members
 
-### Priyanshu Nishad
+### Samiksha Patel
 B.Tech Biotechnology  
 Noida Institute of Engineering and Technology (NIET)
 
-### Samiksha Patel
+### Priyanshu Nishad
 B.Tech Biotechnology  
 Noida Institute of Engineering and Technology (NIET)
 
